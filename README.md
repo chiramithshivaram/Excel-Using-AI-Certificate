@@ -8,4 +8,4 @@
 
 This certification reflects my ability to integrate AI-powered solutions with Excel for advanced data analysis, automation, and dashboarding.
 
-2. Screenshot[Certificate]{[https://github.com/chiramithshivaram/Excel-Using-AI-Certificate](https://github.com/chiramithshivaram/Excel-Using-AI-Certificate)}
+2. Screenshot[Certificate]{[https://github.com/chiramithshivaram/Excel-Using-AI-Certificate/blob/main/Excel%20Using%20AI%20Certificate.jpeg](https://github.com/chiramithshivaram/Excel-Using-AI-Certificate/blob/main/Excel%20Using%20AI%20Certificate.jpeg)}
